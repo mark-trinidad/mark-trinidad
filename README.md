@@ -1,5 +1,7 @@
-## Hi there 👋
+ Hi there! <img src="https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" />
 
+
+[<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230E76A8.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />](https://www.linkedin.com/in/mark-trinidad-work/)
 <!--
 **mark-trinidad/mark-trinidad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
