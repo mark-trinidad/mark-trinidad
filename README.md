@@ -1,6 +1,6 @@
 # Hi there! <img src="https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" width="30"/>
 
-<p align ="justify">I'm a software engineer from Manama, Bahrain, and I'm a fresh graduate excited about the world of technology. I have a passion for learning and love diving into new developments in the field. 
+<p align ="justify">I'm a software engineer from Manama, Bahrain. I'm a fresh graduate excited about the world of technology. I have a passion for learning and love diving into new developments in the field. 
  
 - 🔭 I’m currently working on my [**Personal Website**](https://mark-trinidad.github.io).
 - 🌱 I’m currently learning ReactJS.
