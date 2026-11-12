@@ -6,8 +6,6 @@ Based in Manama, Bahrain 🇧🇭
 
 I'm a Software Engineering graduate interested in building useful applications, solving problems through code, and continuously learning new technologies.
 
-I enjoy turning ideas into practical software, from web applications to desktop tools and workflow automation.
-
 [**Portfolio**](https://marktrinidad.com) · [**LinkedIn**](https://www.linkedin.com/in/mark-trinidad-work/)
 
 ---
